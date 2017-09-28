@@ -13,4 +13,5 @@ class Scraper
     end
 end
 
-Scraper.new
+lol = Scraper.new
+lol.get_page
